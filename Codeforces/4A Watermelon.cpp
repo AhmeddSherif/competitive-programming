@@ -1,5 +1,5 @@
 //Solution by: Ahmed Sherif
-//Date/Time: 06/10/2022 - 23:50
+//Date/Time: 29/8/2022 - 16:37
 //Verdict: Accepted
 //Problem Link: https://codeforces.com/problemset/problem/4/A
 //Profile Link: https://codeforces.com/profile/AhmeddSherif
