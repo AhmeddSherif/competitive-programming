@@ -1,3 +1,9 @@
+//Solution by: Ahmed Sherif
+//Date/Time: 19/01/2023 - 21:17
+//Verdict: Accepted
+//Problem Link: https://codeforces.com/problemset/problem/263/A
+//Profile Link: https://codeforces.com/profile/AhmeddSherif
+
 #include<iostream>
 #include<vector>
 
