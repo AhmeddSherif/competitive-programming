@@ -7,6 +7,7 @@
 
 #include <iostream>
 #include <vector>
+#include <algorithm>
 
 #define lumos ios_base::sync_with_stdio(false); cin.tie(0);
 
